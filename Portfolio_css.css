@@ -95,9 +95,9 @@ img:hover {
     padding: 0px;
 }
 
-/*Shrinks the github logo image(for fun)*/
+/*Expands the element*/
 #shrinky:hover {
-    transform: scale(.25);
+    transform: scale(1.1);
     transition: transform 2s;
 }
 
